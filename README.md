@@ -1,0 +1,2 @@
+# SmallCMS
+# git clon
